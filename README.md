@@ -1,4 +1,4 @@
-# Truco Paulista – Marcador de Pontos
+# Truco Paulistinha – Marcador de Pontos
 
 ## Summary  
 Truco Paulistinha é um marcador de pontos moderno feito para partidas de Truco Paulista. A aplicação permite registrar pontuações, acompanhar o histórico das mãos e determinar automaticamente o vencedor da partida, oferecendo uma experiência rápida, intuitiva e responsiva.
