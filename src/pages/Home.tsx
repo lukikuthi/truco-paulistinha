@@ -25,7 +25,7 @@ export default function Home() {
           Iniciar Partida
         </Button>
 
-        <div className="pt-4 text-xs text-muted-foreground">Desenvolvido por @lukikuthi.dev  | LinkedIn: lukikuthi <a href="https://www.linkedin.com/in/lucas-kikuthi-866358246/" target="_blank" rel="noopener noreferrer" className="underline hover:text-primary" > lukikuthi </a> </div>
+        <div className="pt-4 text-xs text-muted-foreground">Desenvolvido por @lukikuthi.dev  | LinkedIn: <a href="https://www.linkedin.com/in/lucas-kikuthi-866358246/" target="_blank" rel="noopener noreferrer" className="underline hover:text-primary" > Lucas Kikuthi </a> </div>
       </div>
     </div>;
 }
